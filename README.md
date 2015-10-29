@@ -6,6 +6,6 @@ Não existem dificuldades na instalação desta API, tudo o que você precisa mu
 Cada imagem vem com o seu link real no Instagram e as imagens foram definidas como Thumbnail. 
 
 #Tipos de Imagem 
-Imagem Thumbnail : resposta.data[i].images.thumbnail.url
-Imagem Baixa Resolução : resposta.data[i].images.low_resolution.url
-Imagem Resolução Padrão : resposta.data[i].images.standard_resolution.url
+<b>Imagem Thumbnail</b> : resposta.data[i].images.thumbnail.url<br>
+<b>Imagem Baixa Resolução</b> : resposta.data[i].images.low_resolution.url<br>
+<b>Imagem Resolução Padrão</b> : resposta.data[i].images.standard_resolution.url
