@@ -4,8 +4,7 @@
 
 $(function(){
     $(document).ready(function(){
-        var tag = "PedroMuitoLocoBrasil";
-        var tag = "bikeelegal";
+        var tag = "partiu";
         var client_id = "cf6106fa329f44adb092e2f298e6e6fd";
         var access = "250273905.cf6106f.d30dd13d092e484aa2fd21e8da1aa8a0";
         var link = "https://api.instagram.com/v1/tags/"+tag+"/media/recent?client_id="+client_id+"&access_token="+access;
