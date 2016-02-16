@@ -7,8 +7,8 @@
 $(function(){
     $(document).ready(function(){
         var tags = ["piscina", "carnaval", "scarpely"];
-        var client_id = "cf6106fa329f44adb092e2f298e6e6fd";
-        var access = "250273905.cf6106f.d30dd13d092e484aa2fd21e8da1aa8a0";
+        var client_id = "CLIENT-ID";
+        var access = "CLIENT-SECRET";
         var limit =  200;
 
         for (var i = 0; i < tags.length; i++) {

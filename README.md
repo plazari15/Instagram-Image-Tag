@@ -1,9 +1,9 @@
 # instagram-tag-api
-Uma simples Api do Instagram para obter fotos por TAG
+Uma simples Api do Instagram para obter fotos por TAG, usando a última versão da API do Instagram. O JS exibe todas as imagens lado a lado em box, você pode colocar um lightbox ou qualquer outra coisa para permitir a melhor exibição de imagens
 
-Não existem dificuldades na instalação desta API, tudo o que você precisa mudar está no arquivo api.js mude a var tag para algo que você queira usar a var client_id e a var access com o seu token de acesso que podem ser obtidos direto do site do instagram. 
-#Link
-Cada imagem vem com o seu link real no Instagram e as imagens foram definidas como Thumbnail. 
+#Mudando as Keys
+Você precisa gerar uma nova Key no Instagram. Precisa do ClientID e do Access Token. Podem ser gerados através do site do instagram...
+
 
 #Tipos de Imagem 
 <b>Imagem Thumbnail</b> : resposta.data[i].images.thumbnail.url<br>
