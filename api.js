@@ -1,8 +1,9 @@
 /**
- * Created by nacaodesign on 10/28/15.
- * Edited by Vitor Leonel - www.fb.me/vitorleoneloficial on 15/02/2015.
+ * Arquivo JS que permite o uso da API do instagram.
+ * O Sistema permite o uso de multiplas tags em array como no esquema abaixo
+ * Você pode usar uma única tag usando Array
+ * Projeto mantido no GitHub https://github.com/plazari15/instagram-tag-api
  */
-
 $(function(){
     $(document).ready(function(){
         var tags = ["piscina", "carnaval", "scarpely"];
