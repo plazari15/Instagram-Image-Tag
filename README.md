@@ -1,3 +1,4 @@
+#Devido a todas as mudanças na API do instagram, este projeto está desativado!
 # instagram-tag-api
 Uma simples Api do Instagram para obter fotos por TAG, usando a última versão da API do Instagram. O JS exibe todas as imagens lado a lado em box, você pode colocar um lightbox ou qualquer outra coisa para permitir a melhor exibição de imagens
 
